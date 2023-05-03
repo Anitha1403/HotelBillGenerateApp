@@ -29,14 +29,14 @@ namespace HotelService
             do
             {
                 Console.WriteLine("\n");
-                List<string> itemsList = new List<string>();
-                itemsList.Add(Constants.Constants.PURI);
-                itemsList.Add(Constants.Constants.IDLI);
-                itemsList.Add(Constants.Constants.BIRYANI);
-                itemsList.Add(Constants.Constants.CHAPATHI);
-                itemsList.Add(Constants.Constants.ICE_CREAM);
+                hotel.itemsList = new List<string>();
+                hotel.itemsList.Add(Constants.Constants.PURI);
+                hotel.itemsList.Add(Constants.Constants.IDLI);
+                hotel.itemsList.Add(Constants.Constants.BIRYANI);
+                hotel.itemsList.Add(Constants.Constants.CHAPATHI);
+                hotel.itemsList.Add(Constants.Constants.ICE_CREAM);
 
-                Utility.Utility.PrintListValues(itemsList);
+                Utility.Utility.PrintListValues(hotel.itemsList);
 
                 Console.Write("\nWhat would you like to take it? (eg:select 1 for puri):");
                 string itemStrValue = Console.ReadLine();
