@@ -1,0 +1,9 @@
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\bin\Debug\HotelService.dll
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\bin\Debug\HotelService.pdb
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\bin\Debug\Hotel.dll
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\bin\Debug\Hotel.pdb
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\obj\Debug\HotelService.csproj.CoreCompileInputs.cache
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\obj\Debug\HotelService.csproj.CopyComplete
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\obj\Debug\HotelService.dll
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\obj\Debug\HotelService.pdb
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelService\obj\Debug\HotelService.csproj.AssemblyReference.cache

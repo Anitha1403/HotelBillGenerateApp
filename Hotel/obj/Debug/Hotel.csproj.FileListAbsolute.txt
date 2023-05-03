@@ -1,0 +1,5 @@
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\Hotel\bin\Debug\Hotel.dll
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\Hotel\obj\Debug\Hotel.dll
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\Hotel\obj\Debug\Hotel.pdb

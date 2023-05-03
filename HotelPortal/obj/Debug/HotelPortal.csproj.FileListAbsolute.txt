@@ -1,0 +1,13 @@
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\obj\Debug\HotelPortal.csproj.AssemblyReference.cache
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\obj\Debug\HotelPortal.csproj.SuggestedBindingRedirects.cache
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\obj\Debug\HotelPortal.csproj.CoreCompileInputs.cache
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\bin\Debug\HotelPortal.exe.config
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\bin\Debug\HotelPortal.exe
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\bin\Debug\HotelPortal.pdb
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\bin\Debug\Hotel.dll
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\bin\Debug\HotelService.dll
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\bin\Debug\HotelService.pdb
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\bin\Debug\Hotel.pdb
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\obj\Debug\HotelPortal.csproj.CopyComplete
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\obj\Debug\HotelPortal.exe
+D:\Real time Projects\HotelBillGenerateAppication\Hotel\Hotel\HotelPortal\obj\Debug\HotelPortal.pdb

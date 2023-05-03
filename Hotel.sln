@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel", "Hotel\Hotel.csproj", "{602FA221-74FA-46A9-9C47-1E342A604E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelService", "HotelService\HotelService.csproj", "{2AF628DB-09F4-4DCC-9813-69925A8435A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelPortal", "HotelPortal\HotelPortal.csproj", "{7DB33BA6-53A0-4438-8095-2ED073B9139F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602FA221-74FA-46A9-9C47-1E342A604E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602FA221-74FA-46A9-9C47-1E342A604E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602FA221-74FA-46A9-9C47-1E342A604E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602FA221-74FA-46A9-9C47-1E342A604E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF628DB-09F4-4DCC-9813-69925A8435A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF628DB-09F4-4DCC-9813-69925A8435A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF628DB-09F4-4DCC-9813-69925A8435A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF628DB-09F4-4DCC-9813-69925A8435A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB33BA6-53A0-4438-8095-2ED073B9139F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB33BA6-53A0-4438-8095-2ED073B9139F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB33BA6-53A0-4438-8095-2ED073B9139F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB33BA6-53A0-4438-8095-2ED073B9139F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCF7694-8A97-4E9A-A21C-9078FDF351DD}
+	EndGlobalSection
+EndGlobal
